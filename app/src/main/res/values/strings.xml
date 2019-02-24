@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car app android exe 4</string>
+    <string name="go_button">GO!</string>
+    <string name="accelerate_button">Accelerate</string>
+    <string name="deaccelerate_burron">DeAccelerate</string>
+</resources>
